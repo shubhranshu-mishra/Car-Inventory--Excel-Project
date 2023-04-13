@@ -1,10 +1,12 @@
 # Car Inventory (Excel Project)
 
-Data Source- https://github.com/shadsluiter/ExcelExamples/blob/master/car%20inventory.txt
+### Data Source- 
+https://github.com/shadsluiter/ExcelExamples/blob/master/car%20inventory.txt
 
-Given- Data imported from txt file is stored in 1st sheet as Raw data after import
+### Given- 
+Data imported from txt file is stored in 1st sheet as Raw data after import
 
-Procedure- 
+### Procedure- 
 - Import the data from txt file to Excel
 - Car company's initials (Make) was extracted from Car ID column
 - Full name of the company was put in column
@@ -18,7 +20,7 @@ Procedure-
 - A scatter chart was created which shows miles driver with age of car
 - Pivot table was created and total miles of each driver were calculated and shown using column chart
 
-Excel formulas/functions used
+### Excel formulas/functions used
 - File importing from txt to Excel
 - VLOOKUP
 - IF
@@ -31,4 +33,4 @@ Excel formulas/functions used
 - CHART
 - Arithamtic Operators (+,-,*,/) 
 
-Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
+### Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
