@@ -1,4 +1,4 @@
-# Car Inventory - Excel Project
+# Car Inventory (Excel Project)
 
 Data Source- https://github.com/shadsluiter/ExcelExamples/blob/master/car%20inventory.txt
 
